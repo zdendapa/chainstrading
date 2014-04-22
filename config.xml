@@ -9,6 +9,7 @@
       1.0
       - white background of icons
       - added icon for iPad
+      - added 152 icon
     -->
 
     <preference name="phonegap-version"/>
