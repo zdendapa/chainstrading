@@ -68,6 +68,7 @@
     <icon src="icons/iphone/120 px 120 px.png"         gap:platform="ios"        width="120" height="120" />
     <icon src="icons/iphone/144 px 144 px.png"         gap:platform="ios"        width="144" height="144" />
     <icon src="icons/iphone/150 px 150 px.png"         gap:platform="ios"        width="150" height="150" />
+    <icon src="icons/iphone/152 px 152 px.png"         gap:platform="ios"        width="152" height="152" />
     <icon src="icons/iphone/157 px 157 px.png"         gap:platform="ios"        width="157" height="157" />
 
 
